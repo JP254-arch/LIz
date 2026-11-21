@@ -3,7 +3,7 @@ const CONFIG = {
   herName: "My Love LIZ💝",              // her name,  "Liz"
   yourName: "JP",
   startDate: "2026-05-29",         // the day we got together (YYYY-MM-DD)
-  profilePhoto: "../photos/12.jpeg",   // her picture for the homepage (leave "" for none)
+  profilePhoto: "photos/12.jpeg",   // her picture for the homepage (leave "" for none)
   tagline: "You make every ordinary day feel like a celebration.",
   mirrorCaption: "This is the woman I love 😊❤️💖, Smile 😊",
   storyIntro: "Every love story is special, but ours is my favorite.",
@@ -11,19 +11,19 @@ const CONFIG = {
   
   //: { src: "photos/us1.jpg", caption: "Our first trip" }
   photos: [
-    { src: "../photos/1.jpeg", caption: "The Bully " },
-    { src: "../photos/2.jpeg", caption: "My Woman" },
-    { src: "../photos/3.jpeg", caption: "My Fav Girl" },
-    { src: "../photos/4.jpeg", caption: "The Bog Boss " },
-    { src: "../photos/5.jpeg", caption: "Cute Smile" },
-    { src: "../photos/6.jpeg", caption: "My favorite person" },
-    { src: "../photos/7.jpeg", caption: "The woman I love, behind all my smile " },
-    { src: "../photos/8.jpeg", caption: "mama with funds 🤗" },
-    { src: "../photos/9.jpeg", caption: "" },
-    { src: "../photos/10.jpeg", caption: "The Man 🤭, Big baby 🥰" },
-    { src: "../photos/11.jpeg", caption: "QUEEN 💖" },
-    { src: "../photos/17.jpg", caption: "KING 💖" },
-    { src: "../photos/15.jpg", caption: "" },
+    { src: "photos/1.jpeg", caption: "The Bully " },
+    { src: "photos/2.jpeg", caption: "My Woman" },
+    { src: "photos/3.jpeg", caption: "My Fav Girl" },
+    { src: "photos/4.jpeg", caption: "The Bog Boss " },
+    { src: "photos/5.jpeg", caption: "Cute Smile" },
+    { src: "photos/6.jpeg", caption: "My favorite person" },
+    { src: "photos/7.jpeg", caption: "The woman I love, behind all my smile " },
+    { src: "photos/8.jpeg", caption: "mama with funds 🤗" },
+    { src: "photos/9.jpeg", caption: "" },
+    { src: "photos/10.jpeg", caption: "The Man 🤭, Big baby 🥰" },
+    { src: "photos/11.jpeg", caption: "QUEEN 💖" },
+    { src: "photos/17.jpg", caption: "KING 💖" },
+    { src: "photos/15.jpg", caption: "" },
 
   ],
 
